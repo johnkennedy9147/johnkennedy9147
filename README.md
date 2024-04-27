@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+### I'm John Kennedy.
+
+### I'm a software engineer living near Glasgow, Scotland.
+### I'm software engineer primarily working on full stack web.
+
+### I have worked mainly in large banks and other financial institutions but recently moved into the startup world at a Scottish healthtech company called Phlo.
+
+### I am always learning, just now my main focus is getting better at Python and learning Go.
+
 <!--
 **johnkennedy9147/johnkennedy9147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
