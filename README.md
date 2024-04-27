@@ -3,9 +3,9 @@
 ### I'm John Kennedy.
 
 ### I'm a software engineer living near Glasgow, Scotland.
-### I'm software engineer primarily working on full stack web.
+### I'm mostly work on full stack web including mobile development.
 
-### I have worked mainly in large banks and other financial institutions but recently moved into the startup world at a Scottish healthtech company called Phlo.
+### In the past I have worked mainly in large banks and other financial institutions but recently moved into the startup world at a Scottish healthtech company called Phlo.
 
 ### I am always learning, just now my main focus is getting better at Python and learning Go.
 
